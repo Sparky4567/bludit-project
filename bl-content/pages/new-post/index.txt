@@ -1,0 +1,2 @@
+<h1>This is a new post</h1>
+<p>With a markdown support, of course.</p>
